@@ -60,24 +60,49 @@
     ],
     "skills": [
       {
-        "name": "C",
+        "name": "Java",
         "level": "90%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "System Design",
+        "level": "40%"
+      },
+      {
+        "name": "Redis",
+        "level": "85%"
+      }
+      ,
+      {
+        "name": "ElasicSearch",
+        "level": "75%"
+      },
+      {
+        "name": "C",
+        "level": "75%"
       },
       {
         "name": "C++",
-        "level": "90%"
-      },
-      {
-        "name": "Java",
-        "level": "50%"
+        "level": "75%"
       },
       {
         "name": "Groovy",
-        "level": "50%"
+        "level": "85%"
       },
       {
         "name": "Grails",
-        "level": "50%"
+        "level": "85%"
       },
       {
         "name": "HTML5",
@@ -86,10 +111,6 @@
       {
         "name": "CSS3",
         "level": "70%"
-      },
-      {
-        "name": "Javascript",
-        "level": "40%"
       },
       {
         "name": "Python",
@@ -105,32 +126,60 @@
       },
       {
         "name": "RASA",
-        "level": "75%"
+        "level": "55%"
       },
       {
         "name": "Machine Learning",
-        "level": "60%"
+        "level": "40%"
       },
       {
         "name": "Data Science",
-        "level": "80%"
+        "level": "40%"
       },
       {
         "name": "Electronics & Robotics",
         "level": "80%"
       },
       {
-        "name": "Fritzing",
+        "name": "Fritzing System Design",
         "level": "70%"
       },
       {
         "name": "Linux",
-        "level": "65%"
+        "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "85%"
+        "name": "ReactJs",
+        "level": "10%"
       }
+      ,
+      {
+        "name": "NodeJs",
+        "level": "10%"
+      }
+      ,
+      {
+        "name": "TypeScript",
+        "level": "10%"
+      }
+      ,
+      {
+        "name": "NextJs",
+        "level": "10%"
+      },
+      {
+        "name": "Docker",
+        "level": "10%"
+      },
+      {
+        "name": "Kafka",
+        "level": "10%"
+      },
+      {
+        "name": "CI/CD",
+        "level": "10%"
+      }
+      
     ]
   },
   "portfolio": {
