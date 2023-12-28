@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name": "Sahil Arora",
+    "occupation": "Enginnering Student and Lover of Code, Coffee and lack of sleep",
+    "description": "Data Science enthusiast and still learning. Technologically savvy and goal oriented. Hardworking, team player with experience in programming and electronics background.",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Sahil, I'm a Engineering student. Currently I'm leraning and exploring new thing while also creating projects.",
+    "contactmessage": "Get in touch with me to receive further details, get help or anything else.",
+    "email": "sahilaroraE4P1030@gmail.com",
+    "phone": "+91 9716691916",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Delhi",
+      "state": "India",
+      "zip": "ABC_123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/drive/folders/1JiSosflmlncvi_Q0uWg-sWNenQhjpF46?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sahil-arora-2b3463147/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sahilarora1030/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sahil-98-arora",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my skills, hope you find them intresting.",
+    "education": [
+      {
+        "school": "Jaypee Institute Of Informatin Technology",
+        "degree": "Bachelors in Electronics and Communication Engineering",
+        "graduated": "May 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Internshala",
+        "title": "Data Science Training",
+        "years": "May 2020 - June 2020",
+        "description": "Learning from bacics and building projects and machine learning models."
+      },
+      {
+        "company": "RxLogix Noida",
+        "title": "Associate Software Engineer",
+        "years": "Feb 2021 - Present",
+        "description": "Making this world a better place."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      },
+      {
+        "name": "Groovy",
+        "level": "50%"
+      },
+      {
+        "name": "Grails",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "CSS3",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Django",
+        "level": "60%"
+      },
+      {
+        "name": "ChatBot Development",
+        "level": "70%"
+      },
+      {
+        "name": "RASA",
+        "level": "75%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "60%"
+      },
+      {
+        "name": "Data Science",
+        "level": "80%"
+      },
+      {
+        "name": "Electronics & Robotics",
+        "level": "80%"
+      },
+      {
+        "name": "Fritzing",
+        "level": "70%"
+      },
+      {
+        "name": "Linux",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Adavanced Agricultural System",
+        "category": "Built with Arduino, Electronics, Data Science, Machine Learning, Python, Matlab",
+        "image": "AAS.jpeg",
+        "url": "https://github.com/sahil-98-arora/Advanced-Agricultural-System"
+      },
+      {
+        "title": "Covid Relief Chatbot",
+        "category": "Chatbot built with RASA (Python, SQLlite3, Rasa framework)",
+        "image": "covid19-chatbot.jpeg",
+        "url": "https://github.com/sahil-98-arora/COVID19-Relief-Chatbot"
+      },
+      {
+        "title": "Hand Gesture Controlled Snake Game",
+        "category": "Built using Python, OpenCV, Teachable Machine, Pygame",
+        "image": "snake-game.jpeg",
+        "url": "https://github.com/sahil-98-arora/Hand-Gesture-Snake-Game"
+      },
+      {
+        "title": "Salon Bot for Telegram",
+        "category": "Built using Python, ML, Jupyter and Telegram",
+        "image": "salon-bot.jpeg",
+        "url": "https://github.com/sahil-98-arora/Salon_Bot-for-Telegram"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "They are not just pixels on your screen, but mind and inspiration, alive and breathing into your eyes.",
+        "user": "🙂"
+      }
+    ]
+  }
+}
